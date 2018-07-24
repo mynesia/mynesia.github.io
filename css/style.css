@@ -74,9 +74,11 @@ a:hover {
 }
 .services,.our-team,.we-offer,.testimonials,.contact,.stats {
     padding: 70px 0px;
+    font-family: Sawasdee;
 }
 .we-offer-content,.services-content,div#team,.stats,.testimonials-content,.contact-content,.we-offer-about {
     padding-top: 70px;
+    font-family: Sawasdee;
 }
 .services-info h3,.stats-info.text-center h3 {
     color: #fff;
@@ -513,7 +515,8 @@ h1.navbar-brand span {
     margin: 0;
     letter-spacing: 7px;
     text-shadow: 2px 2px 2px rgba(16, 16, 16, 0.45);
-    font-weight: 700;	
+    font-weight: 700;
+    font-family: Sawasdee;
 }
 .we-offer-content1 i {
     font-size: 28px;
@@ -525,6 +528,7 @@ h1.navbar-brand span {
     width: 45px;
     height: 45px;
     text-align: center;
+    font-family: Sawasdee;
 }
 label {
     width: 10%;
@@ -1276,6 +1280,7 @@ h1.navbar-brand span {
 }
 .we-offer-info h3, .services-info h3, .our-team-info h3, .stats-info.text-center h3, .testimonials-info.text-center h3, .contact-info h3, .gallery-info h3 {
     font-size: 2.6em;
+    font-family: Sawasdee;
 }
 .we-offer-content1 {
     text-align: center;
@@ -1289,6 +1294,7 @@ h1.navbar-brand span {
 .we-offer-par p {
     line-height: 2;
     text-align: center;
+    font-family: Sawasdee;
 }
 .service1 {
     padding: 17px;
